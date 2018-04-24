@@ -4,9 +4,13 @@ title: Get Started
 sidebar_label: Start here!
 ---
 
+***
+
 Hi! Awesome that you are interested in our service. 
 
 With IAM you can attach a "Buy" button to any image. Other websites can start selling your products by embedding a simple code snippet.
+
+
 
 ## The Platform
 
@@ -17,6 +21,8 @@ Role | Explanation | Function | How?
 Shopper | Customer of a product | Buys a product | Runs in to an IAM Shoppable on a website
 Merchant | Seller of products | Upload and sell products | Upload manually or through API
 Affiliate | Online publisher/influencer | Promoter & reseller of a product | Place 'snippet' on website
+
+![IAM platform](/docs/assets/iam_infographic_architecture.png)
 
 ## Simple example..
 
@@ -70,8 +76,3 @@ password: iamD3mo
 Find your favorite brands in our [store](www.iam.io), and start selling their products on your own website.
 
 
-## Dropshipment
-
-What we do is a form of 'dropshipment' - this means our platform does not own, or keep stocklevels of merchant's products that are sold through our platform. A merchant will keep stock of products and affiliates are able to generate and forward orders to a merchant through our platform. 
-
-Normally 'dropshipment' is associated with long delivery times, purchased products are often delivered at your doorstep 4-6 weeks later. This is **not** the case with IAM. Our API is designed in such a way that we make sure items are in stock at the moment of purchase. See our Merchant API documentation for more information.

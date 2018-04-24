@@ -3,7 +3,7 @@ id: DOC_2_3_dropshipment
 title: Dropshipment
 sidebar_label: Dropshipment
 ---
-
+***
 ## Forwarding Orders..
 
 What we do is a form of 'dropshipment' - this means our platform does not own, or keep stocklevels of merchant's products that are sold through our platform. A merchant will keep stock of products and affiliates are able to generate and forward orders to a merchant through our platform. 

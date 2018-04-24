@@ -4,6 +4,8 @@ title: Merchant - Upload & Sell
 sidebar_label: Merchant
 ---
 
+***
+
 Hi! Awesome that you are interested in our service. Selling products through our platform is a simple 3 step process:
 
 1. Create an Account

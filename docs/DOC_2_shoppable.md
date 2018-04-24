@@ -3,6 +3,7 @@ id: DOC_2_shoppable
 title: IAM Shoppable
 sidebar_label: Create Account
 ---
+***
 
 Hi! Awesome that you are interested in our service. 
 
@@ -10,7 +11,7 @@ Hi! Awesome that you are interested in our service.
 
 Please provide us with the following personal information:
 
- - add picture of profile
+![IAM Identity](assets/profile.jpg)
 
 ### Extra Merchant info
 
