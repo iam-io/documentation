@@ -11,7 +11,7 @@ Hi! Awesome that you are interested in our service.
 
 Please provide us with the following personal information:
 
-![IAM Identity](assets/profile.jpg)
+![IAM Identity](assets/profile.JPG)
 
 ### Extra Merchant info
 
