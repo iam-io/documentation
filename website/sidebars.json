@@ -2,11 +2,12 @@
   "docs": {
     "Get Started": ["DOC_1_getStarted"],
     "IAM Shoppable": ["DOC_2_shoppable","DOC_2_1_merchant","DOC_2_2_affiliate","DOC_2_3_dropshipment"],
-    "IAM Identity": ["DOC_3_identity"],
-    "Privacy": ["DOC_4_privacy"]
+    "IAM Identity": ["DOC_3_identity","DOC_3_1_identityProvider","DOC_3_2_iamLogin"],
+    "Privacy": ["DOC_4_privacy"],
+    "Pricing": ["DOC_5_pricing"]
   },
   "docs-other": {
     "Merchant API": ["API_1_merchant"],
-    "Influencer API": ["API_2_affiliate"]
+    "Affiliate API": ["API_2_affiliate"]
   }
 }

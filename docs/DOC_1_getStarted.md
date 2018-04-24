@@ -8,7 +8,8 @@ sidebar_label: Start here!
 
 Hi! Awesome that you are interested in our service. 
 
-With IAM you can attach a "Buy" button to any image. Other websites can start selling your products by embedding a simple code snippet.
+With IAM you can attach a **"Buy button"** to any image. Other websites can start selling your products by embedding a simple code snippet.
+The embedded camouflaged webshop will look like a regular picture ;) !
 
 
 
@@ -22,7 +23,11 @@ Shopper | Customer of a product | Buys a product | Runs in to an IAM Shoppable o
 Merchant | Seller of products | Upload and sell products | Upload manually or through API
 Affiliate | Online publisher/influencer | Promoter & reseller of a product | Place 'snippet' on website
 
-![IAM platform](/docs/assets/iam_infographic_architecture.png)
+And how they interact with the platform:
+<p></p>
+<p></p>
+
+![IAM platform](/img/iam_infographic_architecture.png)
 
 ## Simple example..
 
@@ -71,8 +76,16 @@ password: iamD3mo
 
 ````
 
+## Result
+
+It should look something like this:
+
+..
+
 ## IAM Store
 
-Find your favorite brands in our [store](www.iam.io), and start selling their products on your own website.
+Where can you find these shortcode/snippets?! In our [IAM Store](http://www.iam.io)!
+
+Select a product you like and copy the shortcode by clicking on this button below the product:
 
 

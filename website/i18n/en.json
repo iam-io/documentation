@@ -16,9 +16,15 @@
     "Dropshipment": "Dropshipment",
     "DOC_2_shoppable": "IAM Shoppable",
     "Create Account": "Create Account",
+    "DOC_3_1_identityProvider": "Central Identity Provider",
+    "Single Shopping Account": "Single Shopping Account",
+    "DOC_3_2_iamLogin": "IAM Login Form",
+    "IAM Login Form": "IAM Login Form",
     "DOC_3_identity": "IAM Identity",
-    "Your Shopping Account!": "Your Shopping Account!",
-    "DOC_4_privacy": "IAM Identity",
+    "DOC_4_privacy": "Privacy",
+    "Privacy": "Privacy",
+    "DOC_5_pricing": "Pricing",
+    "Pricing": "Pricing",
     "Docs": "Docs",
     "API": "API",
     "Help": "Help",
@@ -26,9 +32,8 @@
     "Get Started": "Get Started",
     "IAM Shoppable": "IAM Shoppable",
     "IAM Identity": "IAM Identity",
-    "Privacy": "Privacy",
     "Merchant API": "Merchant API",
-    "Influencer API": "Influencer API"
+    "Affiliate API": "Affiliate API"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

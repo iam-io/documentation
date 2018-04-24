@@ -1,7 +1,7 @@
 ---
 id: DOC_4_privacy
-title: IAM Identity
-sidebar_label: Your Shopping Account!
+title: Privacy
+sidebar_label: Privacy
 ---
 ***
 this is another document
